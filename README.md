@@ -57,4 +57,4 @@ pip install -r requirements.txt
 - Pandas
 
 ## Author
-- Rushikesh Khot
+- Nidhi Yadav
